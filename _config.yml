@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
+name: Sreerag
 title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+description: Jekflix is a template for Jekyll inspired by Netflix and made X.
 tags:
   - blog
   - template
@@ -46,7 +45,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://sreeragpb0.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
